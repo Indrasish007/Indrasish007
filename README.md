@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java Script**
 
-- 📫 How to reach me **multimediaeverything322@gmail.com**
+- 📫 How to reach me **indrasishadhya770@gmail.com**
 
 - ⚡ Fun fact **I am seriously funny**
 
