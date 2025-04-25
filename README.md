@@ -6,8 +6,6 @@
         src="https://komarev.com/ghpvc/?username=indrasish007&label=Profile%20views&color=0e75b6&style=flat-square"
         alt="indrasish007" /> </p>
 
-- 🌱 I’m currently learning **Java Script**
-
 - 📫 How to reach me **indrasishadhya770@gmail.com**
 
 - ⚡ Fun fact **I am seriously funny**
@@ -17,9 +15,9 @@
     <a href="https://fb.com/adhyaindrasish777" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="adhyaindrasish777" height="30" width="40" /></a>
-    <a href="https://instagram.com/adhyaindrasish777" target="blank"><img align="center"
+    <a href="https://instagram.com/_adhya_indrasish_" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="indrasish777" height="30" width="40" /></a>
+            alt="_adhya_indrasish_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
