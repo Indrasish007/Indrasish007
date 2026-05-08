@@ -1,56 +1,116 @@
 <h1 align="center">Hi 👋, I'm Indrasish Adhya</h1>
-<h3 align="center">Passionate about coding...</h3>
-<img align="right" alt="coding" width="400"
-    src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=indrasish007&label=Profile%20views&color=0e75b6&style=flat-square"
-        alt="indrasish007" /> </p>
-
-- 📫 How to reach me **indrasishadhya770@gmail.com**
-
-- ⚡ Fun fact **I am seriously funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://fb.com/adhyaindrasish777" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="adhyaindrasish777" height="30" width="40" /></a>
-    <a href="https://instagram.com/_adhya_indrasish_" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="_adhya_indrasish_" height="30" width="40" /></a>
+<h3 align="center">
+🚀 Full Stack Developer | Python Enthusiast | AI & Web Developer
+</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=indrasish007&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
-            height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-            alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-            width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" /> </a> <a href="https://www.linux.org/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-            width="40" height="40" /> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40"
-            height="40" /> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40"
-            height="40" /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="40" height="40" /> </a> <a href="https://www.oracle.com/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-            alt="oracle" width="40" height="40" /> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
-            width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" /> </a> </p>
+---
+
+<table>
+<tr>
+<td width="60%">
+
+## 👨‍💻 About Me
+
+- 🔭 Currently working on **AI-Powered Portfolio Builder**
+- 🌱 Learning **TypeScript, React & Backend Development**
+- 💡 Interested in **AI, Full Stack Development & UI/UX**
+- 💬 Ask me about **Python, JavaScript, React, Django**
+- 📫 Reach me at: **indrasishadhya770@gmail.com**
+- 🌐 Portfolio: **[portfolio-indrasish.vercel.app](https://portfolio-indrasish.vercel.app)**
+- ⚡ Fun fact: **I love building interactive projects**
+
+</td>
+<td width="40%">
+<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="100%" />
+</td>
+</tr>
+</table>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://twitter.com/indrasishadhya">
+  <img src="https://skillicons.dev/icons?i=twitter" height="45"/>
+</a>
+<a href="https://linkedin.com/in/indrasish-adhya-480bb1305">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+<a href="https://instagram.com/_adhya_indrasish_">
+  <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+</a>
+<a href="https://facebook.com/adhyaindrasish777">
+  <img src="https://img.icons8.com/color/48/facebook-new.png" height="45"/>
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### 🚀 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,php" />
+</p>
+
+### 🌐 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+### ⚙️ Backend & Database
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,django,mysql,firebase" />
+</p>
+
+### 🛠️ Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="170em"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=indrasish007&theme=tokyonight"/>
+  <img height="170em"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=indrasish007&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=indrasish007&theme=tokyonight"/>
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=indrasish007&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=indrasish007&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&area_color=006d32&hide_border=true" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/39d353/indrasish007" alt="Indrasish's GitHub Contribution Chart" width="100%"/>
+</p>
+
+---
+
+# ✨ Developer Quote
+
+<p align="center">
+<i>"Code. Learn. Build. Repeat."</i>
+</p>
