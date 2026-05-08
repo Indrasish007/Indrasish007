@@ -2,9 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=1500&pause=500&color=7DCFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+Enthusiast;AI+%26+Web+Developer" />
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=indrasish007&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=indrasish007&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
   <a href="https://portfolio-indrasish.vercel.app">
