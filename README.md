@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Indrasish Adhya</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=1500&pause=500&color=7DCFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+Enthusiast;AI+%26+Web+Developer" />
 </p>
@@ -6,15 +7,15 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=indrasish007&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
   <a href="https://portfolio-indrasish.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-portfolio--indrasish.vercel.app-0e75b6?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0e75b6?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<table>
-<tr>
-<td width="60%">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="300"/>
+</p>
 
 ## 👨‍💻 About Me
 
@@ -25,13 +26,6 @@
 - 📫 Reach me at: **indrasishadhya770@gmail.com**
 - 🌐 Portfolio: **[portfolio-indrasish.vercel.app](https://portfolio-indrasish.vercel.app)**
 - ⚡ Fun fact: **I love building interactive projects**
-
-</td>
-<td width="40%">
-<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="100%" />
-</td>
-</tr>
-</table>
 
 ---
 
@@ -107,9 +101,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=indrasish007&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&area_color=006d32&hide_border=true" width="100%"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://ghchart.rshah.org/39d353/indrasish007" alt="Indrasish's GitHub Contribution Chart" width="100%"/>
-</p>
+</p> -->
 
 ---
 
