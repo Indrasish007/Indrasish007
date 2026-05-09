@@ -22,7 +22,7 @@
 - 🔭 Currently working on **AI-Powered Portfolio Builder**
 - 🌱 Learning **TypeScript, React & Backend Development**
 - 💡 Interested in **AI, Full Stack Development & UI/UX**
-- 💬 Ask me about **Python, JavaScript, React, Django**
+- 💬 Ask me about **C,Python, JavaScript, React**
 - 📫 Reach me at: **indrasishadhya770@gmail.com**
 - 🌐 Portfolio: **[portfolio-indrasish.vercel.app](https://portfolio-indrasish.vercel.app)**
 - ⚡ Fun fact: **I love building interactive projects**
