@@ -24,7 +24,7 @@
 - 💡 Interested in **AI, Full Stack Development & UI/UX**
 - 💬 Ask me about **C,Python, JavaScript, React**
 - 📫 Reach me at: **indrasishadhya770@gmail.com**
-- 🌐 Portfolio: **[portfolio-indrasish.vercel.app](https://portfolio-indrasish.vercel.app)**
+- 🌐 Portfolio: **[indrasishadhya.vercel.app](https://indrasishadhya.vercel.app)**
 - ⚡ Fun fact: **I love to learn**
 
 ---
